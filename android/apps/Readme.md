@@ -202,7 +202,7 @@ When you run the script, you'll see a quick summary of app counts by partition, 
 ## 🤝 Contributing
 
 Your feedback and contributions are always welcome!
-Feel free to [open an issue](https://https://github.com/HelllGuest/python_scripts/tree/issues) or submit a pull request.
+Feel free to [open an issue](https://github.com/HelllGuest/python_scripts/issues) or submit a pull request.
 
 ---
 
